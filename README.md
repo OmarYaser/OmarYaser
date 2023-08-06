@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-I am Omar, Fullstack developer, with elements of design.
+I am Omar, Fullstack developer, with love for of design.
 
 ### Technologies 💻
 
