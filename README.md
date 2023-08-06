@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am Omar, Fullstack developer, with love for of design.
+I am Omar, Fullstack developer, with love for design.
 ---
 ### Get in Touch 🤙
 [![LinkedIn](5.png)](https://www.linkedin.com/in/omaryaser3000/)
