@@ -1,16 +1,18 @@
 ![Banner](ProgrammingBanner.png)
-<!-- Change links -->
 
-[![LinkedIn](5.png)](https://www.linkedin.com/in/omaryaser3000/)
-[![Twitter](2.png)](https://twitter.com/OmarYaser3000)
-[![GitHub](7.png)](https://github.com/leviarista)
-[![Dev.to](6.png)](https://dev.to/omaryaser3000)
-[![Threads](1.png)](https://gitlab.com/levi.arista)
-[![Instagram](3.png)](https://dev.to/omaryaser3000)
 
 ### Hi there 👋
 
 I am Omar, Fullstack developer, with love for of design.
+---
+### Get in Touch 🤙
+[![LinkedIn](5.png)](https://www.linkedin.com/in/omaryaser3000/)
+[![Twitter](2.png)](https://twitter.com/OmarYaser3000)
+[![GitHub](7.png)](https://github.com/omaryaser3000)
+[![Dev.to](6.png)](https://dev.to/omaryaser3000)
+[![Threads](1.png)](http://threads.net/@omaryaser3000)
+[![Instagram](3.png)](https://instagram.com/omaryaser3000)
+---
 
 ### Technologies 💻
 
@@ -68,9 +70,11 @@ I am Omar, Fullstack developer, with love for of design.
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
             alt="figma" width="40" height="40" /> </a>
+    <a href="https://www.wordpress.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg"
+            alt="figma" width="40" height="40" /> </a>
 </p>
-
-<!-- ### Pinned repos 📌
+<hr/>
+ <!-- ### Pinned repos 📌
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
 
