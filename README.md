@@ -1,4 +1,4 @@
-![Banner](ProgrammingBanner.png)
+![Banner](banner.png)
 
 
 ### Hi there 👋
